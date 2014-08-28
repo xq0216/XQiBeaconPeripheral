@@ -379,6 +379,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "XQiBeaconPeripheral/XQiBeaconPeripheral-Prefix.pch";
 				INFOPLIST_FILE = "XQiBeaconPeripheral/XQiBeaconPeripheral-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -392,6 +393,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "XQiBeaconPeripheral/XQiBeaconPeripheral-Prefix.pch";
 				INFOPLIST_FILE = "XQiBeaconPeripheral/XQiBeaconPeripheral-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -456,6 +458,7 @@
 				5E73E470194AAB42007CE6D3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5E73E471194AAB42007CE6D3 /* Build configuration list for PBXNativeTarget "XQiBeaconPeripheralTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +467,7 @@
 				5E73E473194AAB42007CE6D3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
